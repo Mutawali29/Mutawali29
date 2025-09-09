@@ -65,8 +65,8 @@ I'm a passionate **Fullstack Web Developer** specializing in building **scalable
 
 | No | Minggu ke | Praktikum ke | Topik | Modul | Template Laporan |
 |:---:|:---:|:---:|---|---|:---:|
-| 1 | 01 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan | [Laporan Modul 01](#) | [Repo 1](#) |
-| 2 | 01 | 01 | Widget Row dan Column | [Laporan Modul 02](#) | [Repo 2](#) |
+| 1 | 01 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan | [Laporan Modul 01](https://drive.google.com/file/d/1YD8JyGIPoKOlACKL2KFHX8ld9XGdpKrR/view?usp=sharing) | [Repo 1](#) |
+| 2 | 01 | 01 | Widget Row dan Column | [Laporan Modul 02](https://drive.google.com/file/d/1R7qOSa1xuz9HLuGR4YBCIzjVxAIwU2fW/view?usp=sharing) | [Repo 2](#) |
 | 3 | 02 | 02 | Pengaturan Layout Row dan Column di Flutter | [Modul 03](#) | [Template laporan](#) |
 | 4 | 02 | 02 | Widget Flexible dan Expanded | [Modul 04](#) | [Template laporan](#) |
 
