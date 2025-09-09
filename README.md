@@ -61,6 +61,15 @@ I'm a passionate **Fullstack Web Developer** specializing in building **scalable
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /> -->
 </p>
 
+# 📱 Flutter Development - Expanding My Mobile Tech Stack
+
+| No | Minggu ke | Praktikum ke | Topik | Modul | Template Laporan |
+|:---:|:---:|:---:|---|---|:---:|
+| 1 | 01 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan | [Laporan Modul 01](#) | [Repo 1](#) |
+| 2 | 01 | 01 | Widget Row dan Column | [Laporan Modul 02](#) | [Repo 2](#) |
+| 3 | 02 | 02 | Pengaturan Layout Row dan Column di Flutter | [Modul 03](#) | [Template laporan](#) |
+| 4 | 02 | 02 | Widget Flexible dan Expanded | [Modul 04](#) | [Template laporan](#) |
+
 ### **DevOps & Infrastructure**
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
