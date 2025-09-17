@@ -67,8 +67,10 @@ I'm a passionate **Fullstack Web Developer** specializing in building **scalable
 |:---:|:---:|:---:|---|---|:---:|
 | 1 | 01 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan | [Laporan Modul 01](https://drive.google.com/file/d/1YD8JyGIPoKOlACKL2KFHX8ld9XGdpKrR/view?usp=sharing) | [Repo 1](#) |
 | 2 | 01 | 01 | Widget Row dan Column | [Laporan Modul 02](https://drive.google.com/file/d/1R7qOSa1xuz9HLuGR4YBCIzjVxAIwU2fW/view?usp=sharing) | [Repo 2](#) |
-| 3 | 02 | 02 | Pengaturan Layout Row dan Column di Flutter | [Modul 03](#) | [Template laporan](#) |
-| 4 | 02 | 02 | Widget Flexible dan Expanded | [Modul 04](#) | [Template laporan](#) |
+| 3 | 02 | 02 | Pengaturan Layout Row dan Column di Flutter | [Laporan Modul 03](https://drive.google.com/file/d/1HB_9boPWmsEI4q-UmmqzuQx_qQs9Aw7k/view?usp=sharing) | [Repo 3](#) |
+| 4 | 02 | 02 | Widget Flexible dan Expanded | [Modul 04](https://drive.google.com/file/d/1zXFWvHkAOL2vp8hLkHZwXr1fh5ezeHCT/view?usp=sharing) | [Repo 4](#) |
+| 5 | 03 | 03 | Widget SizedBox, Spacer, dan Card | [Modul 05](#) | [Repo 5](#) |
+| 6 | 03 | 03 | Widget GridView dan ListView | [Modul 06](#) | [Repo 6](#) |
 
 ### **DevOps & Infrastructure**
 <p>
