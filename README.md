@@ -71,9 +71,9 @@ I'm a passionate **Fullstack Web Developer** specializing in building **scalable
 | 4 | 02 | 02 | Widget Flexible dan Expanded | [Laporan Modul 04](https://drive.google.com/file/d/1zXFWvHkAOL2vp8hLkHZwXr1fh5ezeHCT/view?usp=sharing) | [Repo 4](#) |
 | 5 | 03 | 03 | Widget SizedBox, Spacer, dan Card | [Laporan Modul 05](https://drive.google.com/file/d/1ccgJXT61fYMfog2d-Ofa4YyditiXe1Ae/view?usp=sharing) | [Repo 5](#) |
 | 6 | 03 | 03 | Widget GridView dan ListView | [Laporan Modul 06](https://drive.google.com/file/d/1icnWOH8UPz1MEUMx-C78YuWRyKkapYRh/view?usp=sharing) | [Repo 6](#) |
-| 7 | 04 | 04 | Widget GridView dan ListView | [Laporan Modul 07](https://drive.google.com/file/d/1gMM7G0pxjYI0g1m0onJSv6HKK3gI-_i_/view?usp=sharing) | [Repo 7](#) |
-| 8 | 04 | 04 | Widget GridView dan ListView | [Laporan Modul 08](https://drive.google.com/file/d/1DE3745_lnC6e-pmFV-MZ56GObec8uAjn/view?usp=sharing) | [Repo 8](#) |
-| 9 | 05 | 05 | Widget GridView dan ListView | [Laporan Modul 09](https://drive.google.com/file/d/1M4UI3EBR6VRtgahYi0V85aeckA_I_mUI/view?usp=sharing) | [Repo 9](#) |
+| 7 | 04 | 04 | Widget GridView dan ListView | [Laporan Modul 07]() | [Repo 7](#) |
+| 8 | 04 | 04 | Widget GridView dan ListView | [Laporan Modul 08]() | [Repo 8](#) |
+| 9 | 05 | 05 | Widget GridView dan ListView | [Laporan Modul 09]() | [Repo 9](#) |
 
 ### **DevOps & Infrastructure**
 <p>
