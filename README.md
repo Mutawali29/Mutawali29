@@ -71,9 +71,11 @@ I'm a passionate **Fullstack Web Developer** specializing in building **scalable
 | 4 | 02 | 02 | Widget Flexible dan Expanded | [Laporan Modul 04](https://drive.google.com/file/d/1zXFWvHkAOL2vp8hLkHZwXr1fh5ezeHCT/view?usp=sharing) | [Repo 4](#) |
 | 5 | 03 | 03 | Widget SizedBox, Spacer, dan Card | [Laporan Modul 05](https://drive.google.com/file/d/1ccgJXT61fYMfog2d-Ofa4YyditiXe1Ae/view?usp=sharing) | [Repo 5](#) |
 | 6 | 03 | 03 | Widget GridView dan ListView | [Laporan Modul 06](https://drive.google.com/file/d/1icnWOH8UPz1MEUMx-C78YuWRyKkapYRh/view?usp=sharing) | [Repo 6](#) |
-| 7 | 04 | 04 | Widget GridView dan ListView | [Laporan Modul 07](https://drive.google.com/file/d/1n3RWmP2n6RWFWJyC9npjusDRbQIyr2eH/view?usp=sharing) | [Repo 7](#) |
-| 8 | 04 | 04 | Widget GridView dan ListView | [Laporan Modul 08](https://drive.google.com/file/d/1x6x8T-lmAjLiLwyLcaD_h3TNODNU7z5K/view?usp=sharing) | [Repo 8](#) |
-| 9 | 05 | 05 | Widget GridView dan ListView | [Laporan Modul 09](https://drive.google.com/file/d/1qBXLGqWgQCEH2SQuIQ2cUki6GMvODRIs/view?usp=sharing) | [Repo 9](#) |
+| 7 | 04 | 04 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Laporan Modul 07](https://drive.google.com/file/d/1n3RWmP2n6RWFWJyC9npjusDRbQIyr2eH/view?usp=sharing) | [Repo 7](#) |
+| 8 | 04 | 04 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Laporan Modul 08](https://drive.google.com/file/d/1x6x8T-lmAjLiLwyLcaD_h3TNODNU7z5K/view?usp=sharing) | [Repo 8](#) |
+| 9 | 05 | 05 | StatefulWidget | [Laporan Modul 09](https://drive.google.com/file/d/1qBXLGqWgQCEH2SQuIQ2cUki6GMvODRIs/view?usp=sharing) | [Repo 9](#) |
+| 10 | 06 | 06 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Laporan Modul 10](#) | [Repo 10](#) |
+| 11 | 07 | 07 | Manajemen State dengan GetX | [Laporan Modul 11](#) | [Repo 11](#) |
 
 ### **DevOps & Infrastructure**
 <p>
