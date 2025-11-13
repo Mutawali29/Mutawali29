@@ -76,6 +76,7 @@ I'm a passionate **Fullstack Web Developer** specializing in building **scalable
 | 9 | 05 | 05 | StatefulWidget | [Laporan Modul 09](https://drive.google.com/file/d/1qBXLGqWgQCEH2SQuIQ2cUki6GMvODRIs/view?usp=sharing) | [Repo 9](#) |
 | 10 | 06 | 06 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Laporan Modul 10](https://drive.google.com/file/d/1l-Tw8Ks_QdsZ4k5lZRnv0jEP2A8Tcqhv/view?usp=sharing) | [Repo 10](#) |
 | 11 | 07 | 07 | Manajemen State dengan GetX | [Laporan Modul 11](https://drive.google.com/file/d/1KedUlengG9A7y1e4K67RY4gxZ3m7jhlM/view?usp=sharing) | [Repo 11](#) |
+| 12 | 08 | 08| Akses Lokasi dengan GPS di Flutter | [Laporan Modul 12](https://drive.google.com/file/d/1KedUlengG9A7y1e4K67RY4gxZ3m7jhlM/view?usp=sharing) | [Repo 12](#) |
 
 ### **DevOps & Infrastructure**
 <p>
